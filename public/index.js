@@ -17,7 +17,7 @@ const definitions = [
   {
     name: "Atelier national",
     def:
-      "chantiers d'intérêts public déstinés à donner du travail aux ouvriers chômeurs",
+      "chantiers d'intérêts public destinés à donner du travail aux ouvriers chômeurs",
   },
   {
     name: "Républicain du 'lendemain'",
